@@ -26,7 +26,7 @@
   - Reactive WebApp that displays current ranking, generates teams and matches, and allows match data input
   - ReactJS, Django, REST API, SQLite, AJAX, HTML/CSS/JS
 - Automatic iClicker Question Answerer [Completed]
-  - Scrapes Discord for overall consensus on questions (collaboration was permitted) and automatically submits the answer on iClicker
+  - Scrapes Discord for overall consensus on questions (collaboration was permitted) and automatically submits the answers on iClicker
   - Python, BS4, Web Scraping, Automated Web Query Submission
 - Micromouse Robot Prototype [WIP]
   - A prototype of a small robot that navigates mazes
