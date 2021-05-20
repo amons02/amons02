@@ -24,7 +24,7 @@
   - Python, Hidden Information, Statistics, Data Analysis, Google Sheets API
 - Spikeball Leaderboard WebApp [WIP]
   - Reactive WebApp that displays current ranking, generates teams and matches, and allows match data input
-  - ReactJS, Django, REST API, SQLite, AJAX, HTML/CSS/JS
+  - ReactJS, Django, REST API, PostgreSQL, HTML/CSS/JS
 - Automatic iClicker Question Answerer [Completed]
   - Scrapes Discord for overall consensus on questions (collaboration was permitted) and automatically submits the answers on iClicker
   - Python, BS4, Web Scraping, Automated Web Query Submission
