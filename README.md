@@ -19,6 +19,9 @@
   - Desktop App (Electron + Python)
   - Neural Network Classifier
 ### Personal Projects and Experience
+- AlphaZero Recreation [WIP]
+  - Uses machine learning and a MCTS to play games at a superhuman level
+  - Python, Tensorflow, Keras, Monte Carlo Tree Search, Numpy
 - Spikeball Ranking Algorithm [Completed]
   - Power Rating inspired by FRC's OPR ranking algorithm
   - Python, Hidden Information, Statistics, Data Analysis, Google Sheets API
