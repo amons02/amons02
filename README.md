@@ -13,7 +13,7 @@
     - Team Captain 2020
     - World Championship Control Award Winners 2018
     - World Championship Winners 2019
-- 2018, 2019 -- Internship at Digital Design Corporation
+- 2019, 2020, 2021 -- Internship at Digital Design Corporation
   - Computer Vision
   - HDL
   - Desktop App (Electron + Python)
