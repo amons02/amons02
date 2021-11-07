@@ -1,25 +1,25 @@
 ### Education
-
-- 2016 - 2020 -- Carmel HS
-  - 4.51 Weighted / 4.0 Unweighted GPA
-  - Robotics Team, Math Team, Spikeball Club
-  - National Merit Semi-Finalist, Mu Alpha Theta Math Honors Society
 - 2020 - present -- University of Michigan - Ann Arbor
   - Computer Science and Engineering
   - Singleton Prize for Academic Excellence (4.0 GPA)
   - Current GPA: 3.90
+- 2016 - 2020 -- Carmel HS
+  - 4.51 Weighted / 4.0 Unweighted GPA
+  - Robotics Team, Math Team, Spikeball Club
+  - National Merit Semi-Finalist, Mu Alpha Theta Math Honors Society
+
 
 ### Experience
+- 2019, 2020, 2021 -- Internship at Digital Design Corporation
+  - Computer Vision
+  - HDL
+  - Desktop App (Electron + Python)
+  - Database Search Work
 - 2016 - 2020 -- FTC Robotics Team NYAN #10091
     - Programming Lead 2017-2020
     - Team Captain 2020
     - World Championship Control Award Winners 2018
     - World Championship Winners 2019
-- 2019, 2020, 2021 -- Internship at Digital Design Corporation
-  - Computer Vision
-  - HDL
-  - Desktop App (Electron + Python)
-  - Neural Network Classifier
 
 
 ### Personal Projects
