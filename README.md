@@ -1,4 +1,4 @@
-### Education + Experience
+### Education
 
 - 2016 - 2020 -- Carmel HS
   - 4.51 Weighted / 4.0 Unweighted GPA
@@ -8,6 +8,8 @@
   - Computer Science and Engineering
   - Singleton Prize for Academic Excellence (4.0 GPA)
   - Current GPA: 3.90
+
+### Experience
 - 2016 - 2020 -- FTC Robotics Team NYAN #10091
     - Programming Lead 2017-2020
     - Team Captain 2020
@@ -18,7 +20,9 @@
   - HDL
   - Desktop App (Electron + Python)
   - Neural Network Classifier
-### Personal Projects and Experience
+
+
+### Personal Projects
 - AlphaZero Recreation [WIP]
   - Uses machine learning and a MCTS to play games at a superhuman level
   - Python, Tensorflow, Keras, Monte Carlo Tree Search, Numpy
