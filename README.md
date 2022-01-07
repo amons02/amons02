@@ -2,7 +2,7 @@
 - 2020 - present -- University of Michigan - Ann Arbor
   - Computer Science and Engineering
   - Singleton Prize for Academic Excellence (4.0 GPA)
-  - Current GPA: 3.90
+  - Current GPA: 3.906
 - 2016 - 2020 -- Carmel HS
   - 4.51 Weighted / 4.0 Unweighted GPA
   - Robotics Team, Math Team, Spikeball Club
