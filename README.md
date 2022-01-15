@@ -1,8 +1,8 @@
 ### Education
 - 2020 - present -- University of Michigan - Ann Arbor
   - Computer Science and Engineering
-  - Singleton Prize for Academic Excellence (4.0 GPA)
   - Current GPA: 3.906
+  - Dean's Honor List 2020, 2021
 - 2016 - 2020 -- Carmel HS
   - 4.51 Weighted / 4.0 Unweighted GPA
   - Robotics Team, Math Team, Spikeball Club
@@ -16,10 +16,10 @@
   - Desktop App (Electron + Python)
   - Database Search Work
 - 2016 - 2020 -- FTC Robotics Team NYAN #10091
-    - Programming Lead 2017-2020
-    - Team Captain 2020
-    - World Championship Control Award Winners 2018
-    - World Championship Winners 2019
+  - Programming Lead 2017-2020
+  - Team Captain 2020
+  - World Championship Control Award Winners 2018
+  - World Championship Winners 2019
 
 
 ### Personal Projects
