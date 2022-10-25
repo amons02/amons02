@@ -1,7 +1,7 @@
 ### Education
 - 2020 - present -- University of Michigan - Ann Arbor
-  - Computer Science and Engineering
-  - Current GPA: 3.906
+  - Computer Science Major, Electrical Engineering Minor
+  - Current GPA: 3.932
   - Dean's Honor List 2020, 2021
 - 2016 - 2020 -- Carmel HS
   - 4.51 Weighted / 4.0 Unweighted GPA
@@ -10,6 +10,10 @@
 
 
 ### Experience
+- 2022 -- Internship at AdvantageCS
+  - ASP.NET Core
+  - C#
+  - UI Design
 - 2019, 2020, 2021 -- Internship at Digital Design Corporation
   - Computer Vision
   - HDL
