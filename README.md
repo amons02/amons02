@@ -22,8 +22,8 @@
 - 2016 - 2020 -- FTC Robotics Team NYAN #10091
   - Programming Lead 2017-2020
   - Team Captain 2020
-  - World Championship Control Award Winners 2018
-  - World Championship Winners 2019
+  - World Championship Control Award Winner 2018
+  - World Championship Winner 2019
 
 
 ### Personal Projects
@@ -39,9 +39,6 @@
 - Automatic iClicker Question Answerer [Completed]
   - Scrapes Discord for overall consensus on questions (collaboration was permitted) and automatically submits the answers on iClicker
   - Python, BS4, Web Scraping, Automated Web Query Submission
-- Micromouse Robot Prototype [WIP]
-  - A prototype of a small robot that navigates mazes
-  - C, Embedded Programming, Control Theory, Maze-Solving/Path-Finding
 - Various Algorithm Animations + Simulations [Completed]
   - Simulations and animations of various algorithms in Python with Pygame
   - TSP, Simulated Annealing, Flood-Fill, Etc.
